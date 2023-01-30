@@ -72,5 +72,4 @@ export EDITOR=code
 export PYTHONBREAKPOINT=ipdb.set_trace
 
 # Browser
-export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
-
+export BROWSER="/mnt/c/Program\ Files/Google/Chrome/Application/chrome.exe"
